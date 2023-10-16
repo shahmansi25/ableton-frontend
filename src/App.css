@@ -1,0 +1,36 @@
+ .ableton-header {
+  background: white;
+  border-bottom: 1px solid #f1e9e9;
+  padding: 17px 20px
+  }
+  .ableton-header nav ul{
+      display: flex;
+      margin: 10px; 
+  }
+  .ableton-header nav ul li {
+    list-style: none;
+    padding: 0 20px;
+  }
+  .ableton-header nav ul li a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #FF764D;
+  }
+  .ableton-header nav ul .left-side {
+    margin-left: auto;
+  }
+  .page-about {
+    margin-left: 8.3vw;
+    margin-right: 8.3vw;
+    margin-bottom: 8.3vw;
+    margin-top: 20px;
+  }
+  .page-about-text {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .page-about-text h1 {
+    font-size: 1.8rem;
+    line-height: 1.4;
+  }
+  
